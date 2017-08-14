@@ -18,7 +18,7 @@ import org.junit.Test;
 
 public class solrJDemo {
  //solrJ的增删改查
-	//添加一个注释
+	//我想剞劂冲突 哈哈哈哈
 	@Test
 	
 	   
