@@ -18,8 +18,7 @@ import org.junit.Test;
 
 public class solrJDemo {
  //solrJ的增删改查
-	//解决冲突
-//32342342
+  //试一下eclipse解决冲突
 	@Test
 	public void testAdd() throws SolrServerException, IOException{
 		String baseURL="http://localhost:8080/solr";
