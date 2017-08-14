@@ -21,6 +21,7 @@ public class solrJDemo {
     //正式解决
 	//我想剞劂冲突 哈哈哈哈
 
+
 	@Test
 	public void testAdd() throws SolrServerException, IOException{
 		String baseURL="http://localhost:8080/solr";
