@@ -18,8 +18,10 @@ import org.junit.Test;
 
 public class solrJDemo {
  //solrJ的增删改查
-	
+	//添加一个注释
 	@Test
+	
+	   
 	public void testAdd() throws SolrServerException, IOException{
 		String baseURL="http://localhost:8080/solr";
 		SolrServer solrServer=new HttpSolrServer(baseURL);
