@@ -1,4 +1,4 @@
-package com.itheima.solrj;
+﻿package com.itheima.solrj;
 
 import java.io.IOException;
 import java.util.List;
@@ -18,10 +18,10 @@ import org.junit.Test;
 
 public class solrJDemo {
  //solrJ的增删改查
+    //正式解决
 	//我想剞劂冲突 哈哈哈哈
+
 	@Test
-	
-	   
 	public void testAdd() throws SolrServerException, IOException{
 		String baseURL="http://localhost:8080/solr";
 		SolrServer solrServer=new HttpSolrServer(baseURL);
